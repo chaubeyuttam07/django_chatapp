@@ -21,24 +21,7 @@ Experience the power of **Chat App** right now:
 
 ---
 
-## 🎯 **Why Choose Devnoms Chat App?**
 
-✨ **Devnoms Chat App** delivers:
-
-- **Seamless Communication**: Real-time chat functionality to keep you connected.
-- **User-Centric Features**: A clean, intuitive interface for effortless navigation.
-- **Secure Interactions**: Robust authentication and privacy-focused design.
-- **Customization**: Manage your profile, find friends, and control your experience.
-
----
-
-## 🚀 **Key Features**
-
-- **Secure User Authentication**: Login and signup with confidence.
-- **Profile Management**: Update your name, image, and other details effortlessly.
-- **Friend Management**: Send, accept, or decline friend requests.
-- **Real-Time Chat**: Engage in dynamic conversations using API-powered updates.
-- **Search and Connect**: Find and connect with users quickly.
 
 ---
 
